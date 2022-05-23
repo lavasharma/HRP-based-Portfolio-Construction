@@ -1,6 +1,10 @@
 # HRP-based-Portfolio-Construction
 Asset Allocation and Portfolio Construction based on Hierarchical Risk Parity (Clustering) Approach (Based on Orignal Paper by Marcos López de Prado)
 
+### WARNING 
+In particular, the information presented here does not constitute any form of advice or recommendation by authors and is not intended to be relied upon by users in making (or refraining from making) any investment decisions. Appropriate independent advice should be obtained before making any such decision. Any arrangement made between you and any third party named is at your sole risk and responsibility. 
+
+
 ## Bibliography
 López de Prado, Marcos, Building Diversified Portfolios that Outperform Out-of- Sample(May 23, 2016). Journal of Portfolio Management, 2016; https://doi.org/10.3905/jpm.2016.42.4.059. , Available at SSRN: https://ssrn.com/abstract=2708678 or http://dx.doi.org/10.2139/ssrn.2708678
 
