@@ -1,9 +1,10 @@
 # HRP-based-Portfolio-Construction
-Asset Allocation and Portfolio Construction based on Hierarchical Risk Parity (Clustering) Approach  
+Asset Allocation and Portfolio Construction based on Hierarchical Risk Parity (Clustering) Approach (Based on Orignal Paper by Marcos López de Prado)
 
-## Orignal Paper by Marcos López de Prado 
-Building Diversified Portfolios that Outperform Out-of-Sample: https://jpm.pm-research.com/content/42/4/59 
+## Bibliography
+López de Prado, Marcos, Building Diversified Portfolios that Outperform Out-of- Sample(May 23, 2016). Journal of Portfolio Management, 2016; https://doi.org/10.3905/jpm.2016.42.4.059. , Available at SSRN: https://ssrn.com/abstract=2708678 or http://dx.doi.org/10.2139/ssrn.2708678
 
+Bailey, David H. and López de Prado, Marcos and López de Prado, Marcos, An Open- Source Implementation of the Critical-Line Algorithm for Portfolio Optimization (February 1, 2013). Algorithms, 6(1), pp.169-196, 2013, Available at SSRN: https://ssrn.com/abstract=2197616 or http://dx.doi.org/10.2139/ssrn.2197616
 
 # ABSTRACT
 In this study, we explore the concepts of Hierarchical Risk Parity (HRP). We begin by understanding the constraints and limitations of the methodology for finding a well-diversified portfolio using the concepts of Critical Line Algorithm (CLA), well-known as Efficient Frontier from Markowitz’ Modern Portfolio Theory and the Inverse Variance Portfolio Algorithm. We explore how HRP applies modern mathematics (graph theory and machine learning techniques) to build a diversified portfolio based on the information contained in the covariance matrix. This approach addresses the hierarchy shortfall in the operations involving covariance matrix of the Critical Line Algorithm. We understand the intuitive nature of the algorithm using an application on the S&P500 Index. We compare the performance of portfolios obtained by the HRP, CLA and IVP algorithms.
