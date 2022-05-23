@@ -2,9 +2,9 @@
 Asset Allocation and Portfolio Construction based on Hierarchical Risk Parity Approach (Based on Orignal Paper by Marcos López de Prado)
 
 Authors: 
-Abhishek Kulkarni: https://www.linkedin.com/in/abhishek-kulkarni-39a343155/
-Kunjan Mehta: https://www.linkedin.com/in/kunjanmehta09/
-Lavaneesh Sharma: https://www.linkedin.com/in/lavaneesh/
+Abhishek Kulkarni: https://www.linkedin.com/in/abhishek-kulkarni-39a343155/ \
+Kunjan Mehta: https://www.linkedin.com/in/kunjanmehta09/ \
+Lavaneesh Sharma: https://www.linkedin.com/in/lavaneesh/ \
 Shubham Chavan: https://www.linkedin.com/in/shubhamchavan95/
 
 ### WARNING 
